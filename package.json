@@ -1,0 +1,21 @@
+{
+  "name": "net.whg.runex",
+  "version": "0.0.1",
+  "description": "A magic-themed esoteric programming language.",
+  "displayName": "Runex",
+  "unity": "2021.3",
+  "author": {
+    "name": "TheDudeFromCI",
+    "email": "thedudefromci@gmail.com",
+    "url": "https://github.com/TheDudeFromCI"
+  },
+  "hideInEditor": false,
+  "keywords": [],
+  "samples": [
+    {
+      "displayName": "Cube Field",
+      "description": "A small playground to manipulate objects using Runex magic.",
+      "path": "Samples~/CubeField"
+    }
+  ]
+}
